@@ -6,7 +6,8 @@ let resultTip = billValue < 50 ? 0 : (billValue <= 300 && billValue >= 50) ? bil
 console.log(`The bill was ${billValue}, the tip was ${resultTip}`);
 document.querySelector(".pTask3_1").innerHTML = `Bill value: <b>${billValue}</b> , the 
                                                 tip was <b>${resultTip}</b>`;
-// End Task 3.1
+
+                                                // End Task 3.1
 
 // Start Task 3.2
 let dolphinsArr = (prompt("Enter data of dolphins separated by comma: "));
