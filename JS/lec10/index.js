@@ -1,0 +1,10 @@
+var var1 = 0;
+var var2 = "";
+var var3 = true;
+var data3 = 5;
+// data2 = "6" ; 
+var fName;
+fName = 'Hussien';
+fName = 0;
+fName = true;
+console.log(fName);
